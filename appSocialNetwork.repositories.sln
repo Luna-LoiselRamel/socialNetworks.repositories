@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "appSocialNetwork.repositories", "appSocialNetwork.repositories\appSocialNetwork.repositories.sqlproj", "{F5598375-0345-4EF1-BDA6-DACB74C87702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5598375-0345-4EF1-BDA6-DACB74C87702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5598375-0345-4EF1-BDA6-DACB74C87702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5598375-0345-4EF1-BDA6-DACB74C87702}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F5598375-0345-4EF1-BDA6-DACB74C87702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5598375-0345-4EF1-BDA6-DACB74C87702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5598375-0345-4EF1-BDA6-DACB74C87702}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB061A62-B468-4913-B696-12BDB0B4520C}
+	EndGlobalSection
+EndGlobal

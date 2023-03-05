@@ -1,0 +1,10 @@
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\bin\Debug\appSocialNetwork.repositories.dacpac
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\bin\Debug\appSocialNetwork.repositories.dll
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\bin\Debug\appSocialNetwork.repositories.pdb
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\appSocialNetwork.repositories.sqlproj.AssemblyReference.cache
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\Model.xml
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\refactor.xml
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\postdeploy.sql
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\predeploy.sql
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\appSocialNetwork.repositories.dll
+C:\Users\luna.loisel\Desktop\cours mines ales\appSocialNetwork.repositories\appSocialNetwork.repositories\obj\Debug\appSocialNetwork.repositories.pdb
